@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  background-color: #000000;
+  color: $gray-4;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+// For code insertations, but may just list it
+code {
+  background-color: rgba(222,222,222,0.3);
+  color: crimson;
+}

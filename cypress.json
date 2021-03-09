@@ -1,0 +1,5 @@
+{
+  "baseUrl": "http://thedevpodcast.com",
+  "integrationFolder": "cypress/e2e",
+  "chromeWebSecurity": false 
+}
